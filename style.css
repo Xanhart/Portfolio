@@ -273,3 +273,6 @@ h4 {
 .white-text {
   color: white;
 }
+.center-text{
+    text-align: center;
+}
